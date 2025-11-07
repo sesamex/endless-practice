@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22)
+project(SECOND_STUDY)
+message("SECOND_STUDY Project")
+message("Project path: ${CMAKE_SOURCE_DIR}")
+message("CMake version: ${CMAKE_VERSION}")

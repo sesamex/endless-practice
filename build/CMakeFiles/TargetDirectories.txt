@@ -1,0 +1,2 @@
+/home/coco/code/SECOND_STUDY/build/CMakeFiles/edit_cache.dir
+/home/coco/code/SECOND_STUDY/build/CMakeFiles/rebuild_cache.dir

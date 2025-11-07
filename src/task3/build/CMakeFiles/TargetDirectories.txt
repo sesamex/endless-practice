@@ -1,0 +1,3 @@
+/home/coco/code/SECOND_STUDY/src/task3/build/CMakeFiles/task3.dir
+/home/coco/code/SECOND_STUDY/src/task3/build/CMakeFiles/edit_cache.dir
+/home/coco/code/SECOND_STUDY/src/task3/build/CMakeFiles/rebuild_cache.dir
